@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonSuite">
+
+    <test name="Module_Test">
+        <classes>
+            <class name="com.amazon.tests.AmazonTest"/>
+        </classes>
+    </test>
+
+</suite>
